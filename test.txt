@@ -1,8 +1,5 @@
 Test text here.
 
-<<<<<<< HEAD
-
 Updating with Bash…
-=======
+
 Update with Tortoise…
->>>>>>> 8e1048f3692d3d386dd4e496af0dd06daa59da93
