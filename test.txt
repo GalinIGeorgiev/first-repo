@@ -1,8 +1,8 @@
 Test text here.
 
-Updating with Bash…
+Updating with Bashâ€¦
 
-Update with Tortoise…
+Update with Tortoiseâ€¦
 updating with Tortoise number two
-
-one more change gitbash
+add with Github.com
+one more change gitbash  
