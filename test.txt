@@ -1,11 +1,8 @@
 Test text here.
+Updating with Bash…
 
+Update with Tortoise…
+Updating with Bash…
 
-Updating with Bash�
-
-Update with Tortoise�
-
+Update with Tortoise…
 updating with Tortoise number two
-
-
-one more change gitbash
